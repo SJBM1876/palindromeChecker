@@ -1,2 +1,2 @@
 # palindromeChecker
-Palindrome Checker
+Palindrome Checker created using HTML, CSS and Java Script.
